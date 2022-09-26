@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "eD9wUD+aOR50gKv2RyH5ujsmNKj+sOyoHwZV6ZK/r6g=",
+  "Source": "01WebApiFurion",
+  "BasePath": "_content/01WebApiFurion",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "01WebApiFurion\\wwwroot",
+      "Source": "01WebApiFurion",
+      "ContentRoot": "D:\\code\\code2022\\Furion\\01WebApiFurion\\01WebApiFurion\\wwwroot\\",
+      "BasePath": "_content/01WebApiFurion",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
